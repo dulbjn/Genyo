@@ -1,2 +1,2 @@
 # Genyo
-www.genyo.id
+genyo.id
