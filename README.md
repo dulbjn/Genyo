@@ -1,2 +1,2 @@
 # Genyo
-genyo.id
+https://genyo.id
